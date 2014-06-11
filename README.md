@@ -8,8 +8,8 @@
 
  -As an object method
 
-  	+_this_ on the object's prototype chain
-  	+_this_ with a getter or setter
+	+_this_ on the object's prototype chain
+	+_this_ with a getter or setter
 
  -As a constructor
 
