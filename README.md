@@ -4,21 +4,21 @@
 
 ##Function context
 
- ###Simple call
+ -Simple call
 
- ###As an object method
+ -As an object method
 
-  ####_this_ on the object's prototype chain
-  ####_this_ with a getter or setter
+  	+_this_ on the object's prototype chain
+  	+_this_ with a getter or setter
 
- ###As a constructor
+ -As a constructor
 
- ###_call_ and _apply_
+ -_call_ and _apply_
 
- ###The _bind_ method
+ -The _bind_ method
 
- ###As a DOM event handler
+ -As a DOM event handler
 
- ###In an in-line event handler
+ -In an in-line event handler
 
 Link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
